@@ -3,7 +3,7 @@
 - Personalized Medicine: Redefining Cancer Treatment.
 - Predict the effect of Genetic Variants to enable Personalized Medicine.
 
-## Medical Domain AI Solution :pill:
+* Medical Domain AI Solution :pill:
 
 * Credit & thanks to teclov.
 
@@ -15,7 +15,7 @@
 Python | Machine Learning | NLP | VS Code :computer:
 
 ## Dataset
-1. In the project "training_text" file is missing (due to upload file size limit). Please find it in the kaggle link provided above.
+1. In the project "training_text" file is missing under "training" directory (due to upload file size limit). Please find it in the kaggle link provided above.
 
 ## How to run ? :point_down:
 1. Clone/Download the project from github
