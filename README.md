@@ -14,13 +14,13 @@
 ## Tech stack :point_down:
 Python | Machine Learning | NLP | VS Code :computer:
 
-## Dataset
+## Dataset :point_down:
 1. In the project "training_text" file is missing under "training" directory (due to upload file size limit). Please find it in the kaggle link provided above.
 
 ## How to run ? :point_down:
-1. Clone/Download the project from github
-2. Open project in Pycharm/VS Code
-3. Run "run.py" file or Run by highlighting snippets of code
+1. Clone/Download the project from github.
+2. Open project in Pycharm/VS Code.
+3. Run "run.py" file or Run by highlighting snippets of code.
 
 ## Application directory structure :point_down:
 ![](https://github.com/Akshaykumarcp/ML-Redefining-Cancer-Treatment/blob/main/directoryStructure.jpg)
@@ -28,13 +28,13 @@ Python | Machine Learning | NLP | VS Code :computer:
 ## Lessons learnt :open_book:
 * Important business metrics to consider before modelling such as Interpretability, Latency, Due to medical  domain very less error etc.
 * Merge dataframes based on IDs.
-* EDA & Viz
-* Log loss evaluation metrics
-* Laplace smoothing
-* Callibirated classifier
-* Stochastic gradient descent 
-* Response encoding technique
-* Feature importance
+* EDA & Viz.
+* Log loss evaluation metrics.
+* Laplace smoothing.
+* Callibirated classifier.
+* Stochastic gradient descent. 
+* Response encoding technique.
+* Feature importance.
 * Finally, python :smile:
 
 ## License :point_down:
